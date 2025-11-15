@@ -1,17 +1,17 @@
-## Updated on 2025.11.14
+## Updated on 2025.11.15
 
 ## Try-on
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
-|**2025-08-06**|**Voost: A Unified and Scalable Diffusion Transformer for Bidirectional Virtual Try-On and Try-Off**|Seungyong Lee et.al.|[2508.04825v2](http://arxiv.org/abs/2508.04825v2)|
-|**2025-08-06**|**One Model For All: Partial Diffusion for Unified Try-On and Try-Off in Any Pose**|Jinxi Liu et.al.|[2508.04559v1](http://arxiv.org/abs/2508.04559v1)|
-|**2025-07-09**|**Scalable and Realistic Virtual Try-on Application for Foundation Makeup with Kubelka-Munk Theory**|Hui Pang et.al.|[2507.07333v1](http://arxiv.org/abs/2507.07333v1)|
-|**2024-12-13**|**Dynamic Try-On: Taming Video Virtual Try-on with Dynamic Attention Mechanism**|Jun Zheng et.al.|[2412.09822v2](http://arxiv.org/abs/2412.09822v2)|
-|**2024-12-09**|**Size-Variable Virtual Try-On with Physical Clothes Size**|Yohei Yamashita et.al.|[2412.06201v1](http://arxiv.org/abs/2412.06201v1)|
-|**2024-11-23**|**Hierarchical Cross-Attention Network for Virtual Try-On**|Hao Tang et.al.|[2411.15542v1](http://arxiv.org/abs/2411.15542v1)|
-|**2024-11-15**|**Try-On-Adapter: A Simple and Flexible Try-On Paradigm**|Hanzhong Guo et.al.|[2411.10187v1](http://arxiv.org/abs/2411.10187v1)|
-|**2024-04-26**|**Tunnel Try-on: Excavating Spatial-temporal Tunnels for High-quality Virtual Try-on in Videos**|Zhengze Xu et.al.|[2404.17571v1](http://arxiv.org/abs/2404.17571v1)|
-|**2024-03-13**|**Better Fit: Accommodate Variations in Clothing Types for Virtual Try-on**|Dan Song et.al.|[2403.08453v2](http://arxiv.org/abs/2403.08453v2)|
-|**2022-11-19**|**Single Stage Multi-Pose Virtual Try-On**|Sen He et.al.|[2211.10715v1](http://arxiv.org/abs/2211.10715v1)|
+|**2025-11-13**|**Generating optimal Gravitational-Wave template banks with metric-preserving autoencoders**|Giovanni Cabass et.al.|[2511.10466v1](http://arxiv.org/abs/2511.10466v1)|
+|**2025-11-12**|**Efficiently Transforming Neural Networks into Decision Trees: A Path to Ground Truth Explanations with RENTT**|Helena Monke et.al.|[2511.09299v1](http://arxiv.org/abs/2511.09299v1)|
+|**2025-11-10**|**Detecting Suicidal Ideation in Text with Interpretable Deep Learning: A CNN-BiGRU with Attention Mechanism**|Mohaiminul Islam Bhuiyan et.al.|[2511.08636v1](http://arxiv.org/abs/2511.08636v1)|
+|**2025-11-10**|**On maximizing private neighbors in graphs**|Stephen T. Hedetniemi et.al.|[2511.07248v1](http://arxiv.org/abs/2511.07248v1)|
+|**2025-11-07**|**Food as Soft Power: Taiwanese Gastrodiplomacy on Social Media and Algorithmic Suppression**|Andrew Yen Chang et.al.|[2511.05729v2](http://arxiv.org/abs/2511.05729v2)|
+|**2025-11-04**|**Effective Test-Time Scaling of Discrete Diffusion through Iterative Refinement**|Sanghyun Lee et.al.|[2511.05562v1](http://arxiv.org/abs/2511.05562v1)|
+|**2025-11-06**|**Benchmark Designers Should "Train on the Test Set" to Expose Exploitable Non-Visual Shortcuts**|Ellis Brown et.al.|[2511.04655v1](http://arxiv.org/abs/2511.04655v1)|
+|**2025-11-06**|**IntelliProof: An Argumentation Network-based Conversational Helper for Organized Reflection**|Kaveh Eskandari Miandoab et.al.|[2511.04528v1](http://arxiv.org/abs/2511.04528v1)|
+|**2025-11-06**|**The truth is no diaper: Human and AI-generated associations to emotional words**|Špela Vintar et.al.|[2511.04077v1](http://arxiv.org/abs/2511.04077v1)|
+|**2025-11-04**|**FLAME: Flexible and Lightweight Biometric Authentication Scheme in Malicious Environments**|Fuyi Wang et.al.|[2511.02176v1](http://arxiv.org/abs/2511.02176v1)|
 

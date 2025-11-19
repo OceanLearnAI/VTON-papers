@@ -1,13 +1,13 @@
-## Updated on 2025.11.18
+## Updated on 2025.11.19
 
 ## Try-on
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-11-18**|**A System Dynamics Approach to Evaluating Sludge Management Strategies in Vinasse Treatment: Cost-Benefit Analysis and Scenario Assessment**|Agustin Olivares et.al.|[2511.14607v1](http://arxiv.org/abs/2511.14607v1)|
 |**2025-11-17**|**Multi-Objective Statistical Model Checking using Lightweight Strategy Sampling (extended version)**|Pedro R. D'Argenio et.al.|[2511.13460v1](http://arxiv.org/abs/2511.13460v1)|
-|**2025-11-17**|**PFAvatar: Pose-Fusion 3D Personalized Avatar Reconstruction from Real-World Outfit-of-the-Day Photos**|Dianbing Xi et.al.|[2511.12935v1](http://arxiv.org/abs/2511.12935v1)|
+|**2025-11-17**|**PFAvatar: Pose-Fusion 3D Personalized Avatar Reconstruction from Real-World Outfit-of-the-Day Photos**|Dianbing Xi et.al.|[2511.12935v2](http://arxiv.org/abs/2511.12935v2)|
 |**2025-11-16**|**Nonlocal action in Everettian Quantum Mechanics**|Mordecai Waegell et.al.|[2511.12403v1](http://arxiv.org/abs/2511.12403v1)|
-|**2025-11-14**|**Learning Fair Representations with Kolmogorov-Arnold Networks**|Amisha Priyadarshini et.al.|[2511.11767v1](http://arxiv.org/abs/2511.11767v1)|
 |**2025-11-14**|**Discovering Meaningful Units with Visually Grounded Semantics from Image Captions**|Melika Behjati et.al.|[2511.11262v1](http://arxiv.org/abs/2511.11262v1)|
 |**2025-11-14**|**Power Ensemble Aggregation for Improved Extreme Event AI Prediction**|Julien Collard et.al.|[2511.11170v1](http://arxiv.org/abs/2511.11170v1)|
 |**2025-11-13**|**Optimal Welfare in Noncooperative Network Formation under Attack**|Natan Doubez et.al.|[2511.10845v1](http://arxiv.org/abs/2511.10845v1)|

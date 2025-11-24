@@ -1,9 +1,10 @@
-## Updated on 2025.11.23
+## Updated on 2025.11.24
 
 ## Try-on
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-11-20**|**Data-Driven Stellar Spectral Modelling with GSPICE**|Douglas P. Finkbeiner et.al.|[2511.16754v1](http://arxiv.org/abs/2511.16754v1)|
 |**2025-11-19**|**UniFit: Towards Universal Virtual Try-on with MLLM-Guided Semantic Alignment**|Wei Zhang et.al.|[2511.15831v1](http://arxiv.org/abs/2511.15831v1)|
 |**2025-11-18**|**A System Dynamics Approach to Evaluating Sludge Management Strategies in Vinasse Treatment: Cost-Benefit Analysis and Scenario Assessment**|Agustin Olivares et.al.|[2511.14607v1](http://arxiv.org/abs/2511.14607v1)|
 |**2025-11-18**|**Orion: A Unified Visual Agent for Multimodal Perception, Advanced Visual Reasoning and Execution**|N Dinesh Reddy et.al.|[2511.14210v2](http://arxiv.org/abs/2511.14210v2)|
@@ -13,5 +14,4 @@
 |**2025-11-14**|**Discovering Meaningful Units with Visually Grounded Semantics from Image Captions**|Melika Behjati et.al.|[2511.11262v1](http://arxiv.org/abs/2511.11262v1)|
 |**2025-11-14**|**Power Ensemble Aggregation for Improved Extreme Event AI Prediction**|Julien Collard et.al.|[2511.11170v1](http://arxiv.org/abs/2511.11170v1)|
 |**2025-11-13**|**Optimal Welfare in Noncooperative Network Formation under Attack**|Natan Doubez et.al.|[2511.10845v1](http://arxiv.org/abs/2511.10845v1)|
-|**2025-11-12**|**Efficiently Transforming Neural Networks into Decision Trees: A Path to Ground Truth Explanations with RENTT**|Helena Monke et.al.|[2511.09299v1](http://arxiv.org/abs/2511.09299v1)|
 

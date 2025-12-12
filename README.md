@@ -1,9 +1,10 @@
-## Updated on 2025.12.11
+## Updated on 2025.12.12
 
 ## Try-on
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-12-09**|**The meaning of "Big Bang"**|Emilio Elizalde et.al.|[2512.09950v1](http://arxiv.org/abs/2512.09950v1)|
 |**2025-12-10**|**Representation Calibration and Uncertainty Guidance for Class-Incremental Learning based on Vision Language Model**|Jiantao Tan et.al.|[2512.09441v1](http://arxiv.org/abs/2512.09441v1)|
 |**2025-12-10**|**GAIR: GUI Automation via Information-Joint Reasoning and Group Reflection**|Zishu Wei et.al.|[2512.09396v1](http://arxiv.org/abs/2512.09396v1)|
 |**2025-12-09**|**An Explainable AI Model for the Detecting Malicious Smart Contracts Based on EVM Opcode Based Features**|Roopak Surendran et.al.|[2512.08782v1](http://arxiv.org/abs/2512.08782v1)|
@@ -13,5 +14,4 @@
 |**2025-12-05**|**Where to Fly, What to Send: Communication-Aware Aerial Support for Ground Robots**|Harshil Suthar et.al.|[2512.06207v1](http://arxiv.org/abs/2512.06207v1)|
 |**2025-12-05**|**VRSA: Jailbreaking Multimodal Large Language Models through Visual Reasoning Sequential Attack**|Shiji Zhao et.al.|[2512.05853v2](http://arxiv.org/abs/2512.05853v2)|
 |**2025-12-05**|**Learning High-Fidelity Cloth Animation via Skinning-Free Image Transfer**|Rong Wang et.al.|[2512.05593v1](http://arxiv.org/abs/2512.05593v1)|
-|**2025-12-04**|**Not All Birds Look The Same: Identity-Preserving Generation For Birds**|Aaron Sun et.al.|[2512.04485v1](http://arxiv.org/abs/2512.04485v1)|
 

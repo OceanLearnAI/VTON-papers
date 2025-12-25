@@ -1,9 +1,10 @@
-## Updated on 2025.12.24
+## Updated on 2025.12.25
 
 ## Try-on
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2025-12-24**|**ETP-R1: Evolving Topological Planning with Reinforcement Fine-tuning for Vision-Language Navigation in Continuous Environments**|Shuhao Ye et.al.|[2512.20940v1](http://arxiv.org/abs/2512.20940v1)|
 |**2025-12-23**|**Behavioral patterns and mean-field games in epidemiological models**|Finnegan Buckley et.al.|[2512.20547v1](http://arxiv.org/abs/2512.20547v1)|
 |**2025-12-23**|**Machine Learning to Predict Digital Frustration from Clickstream Data**|Jibin Joseph et.al.|[2512.20438v1](http://arxiv.org/abs/2512.20438v1)|
 |**2025-12-23**|**The devil is in the details: Enhancing Video Virtual Try-On via Keyframe-Driven Details Injection**|Qingdong He et.al.|[2512.20340v1](http://arxiv.org/abs/2512.20340v1)|
@@ -13,5 +14,4 @@
 |**2025-12-19**|**Bayesian Optimisation: Which Constraints Matter?**|Xietao Wang Lin et.al.|[2512.17569v1](http://arxiv.org/abs/2512.17569v1)|
 |**2025-12-18**|**Some examples of use of transfinite induction in analysis**|Nicola gigli et.al.|[2512.16973v1](http://arxiv.org/abs/2512.16973v1)|
 |**2025-12-17**|**PMMD: A pose-guided multi-view multi-modal diffusion for person generation**|Ziyu Shang et.al.|[2512.15069v1](http://arxiv.org/abs/2512.15069v1)|
-|**2025-12-16**|**Time and Relations into Focus: Ontological Foundations of Object-Centric Event Data**|Hosna Hooshyar et.al.|[2512.14425v1](http://arxiv.org/abs/2512.14425v1)|
 

@@ -1,9 +1,10 @@
-## Updated on 2026.02.11
+## Updated on 2026.02.12
 
 ## Try-on
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2026-02-11**|**Improving Quantum Multi-Objective Optimization with Archiving and Substitution**|Linus Ekstrøm et.al.|[2602.10952v1](http://arxiv.org/abs/2602.10952v1)|
 |**2026-02-10**|**The Too Visible QCD Axion**|Luca Di Luzio et.al.|[2602.10057v1](http://arxiv.org/abs/2602.10057v1)|
 |**2026-02-10**|**Beyond Vizing Chains: Improved Recourse in Dynamic Edge Coloring**|Yaniv Sadeh et.al.|[2602.09497v1](http://arxiv.org/abs/2602.09497v1)|
 |**2026-02-09**|**CoRefine: Confidence-Guided Self-Refinement for Adaptive Test-Time Compute**|Chen Jin et.al.|[2602.08948v1](http://arxiv.org/abs/2602.08948v1)|
@@ -13,5 +14,4 @@
 |**2026-02-09**|**Johann Heinrich Lambert's memoir "Theorie der Parallellinien": A review with commentary**|Athanase Papadopoulos et.al.|[2602.08420v1](http://arxiv.org/abs/2602.08420v1)|
 |**2026-02-07**|**Beyond Arrow: From Impossibility to Possibilities in Multi-Criteria Benchmarking**|Polina Gordienko et.al.|[2602.07593v1](http://arxiv.org/abs/2602.07593v1)|
 |**2026-02-05**|**NeuCLIRTech: Chinese Monolingual and Cross-Language Information Retrieval Evaluation in a Challenging Domain**|Dawn Lawrie et.al.|[2602.05334v1](http://arxiv.org/abs/2602.05334v1)|
-|**2026-02-04**|**Exceptional Behaviors: How Frequently Are They Tested?**|Andre Hora et.al.|[2602.05123v1](http://arxiv.org/abs/2602.05123v1)|
 

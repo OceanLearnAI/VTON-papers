@@ -1,9 +1,10 @@
-## Updated on 2026.03.01
+## Updated on 2026.03.02
 
 ## Try-on
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2026-02-27**|**Spatio-Temporal Garment Reconstruction Using Diffusion Mapping via Pattern Coordinates**|Yingxuan You et.al.|[2602.24043v1](http://arxiv.org/abs/2602.24043v1)|
 |**2026-02-26**|**Spin Glass Concepts in Computer Science, Statistics, and Learning**|Andrea Montanari et.al.|[2602.23326v1](http://arxiv.org/abs/2602.23326v1)|
 |**2026-02-26**|**Predicting Tennis Serve directions with Machine Learning**|Ying Zhu et.al.|[2602.22527v1](http://arxiv.org/abs/2602.22527v1)|
 |**2026-02-26**|**Iterative Prompt Refinement for Dyslexia-Friendly Text Summarization Using GPT-4o**|Samay Bhojwani et.al.|[2602.22524v1](http://arxiv.org/abs/2602.22524v1)|
@@ -13,5 +14,4 @@
 |**2026-02-23**|**Gabor Holography Reinvented**|Jesper Glückstad et.al.|[2602.20000v1](http://arxiv.org/abs/2602.20000v1)|
 |**2026-02-22**|**AI Agents for Variational Quantum Circuit Design**|Marco Knipfer et.al.|[2602.19387v1](http://arxiv.org/abs/2602.19387v1)|
 |**2026-02-21**|**When the Inference Meets the Explicitness or Why Multimodality Can Make Us Forget About the Perfect Predictor**|J. E. Domínguez-Vidal et.al.|[2602.18850v1](http://arxiv.org/abs/2602.18850v1)|
-|**2026-02-20**|**Convergent Gate Elimination and Constructive Circuit Lower Bounds**|Marco Carmosino et.al.|[2602.17942v1](http://arxiv.org/abs/2602.17942v1)|
 

@@ -1,4 +1,4 @@
-## Updated on 2026.03.03
+## Updated on 2026.03.04
 
 ## Try-on
 
@@ -8,7 +8,7 @@
 |**2026-03-02**|**Adam Converges Without Any Modification On Update Rules**|Yushun Zhang et.al.|[2603.02092v1](http://arxiv.org/abs/2603.02092v1)|
 |**2026-03-02**|**Subcubic Coin Tossing in Asynchrony without Setup**|Mose Mizrahi et.al.|[2603.02071v1](http://arxiv.org/abs/2603.02071v1)|
 |**2026-03-02**|**Wrapped flat-top kernel density estimation with circular data**|Yasuhito Tsuruta et.al.|[2603.01402v1](http://arxiv.org/abs/2603.01402v1)|
-|**2026-03-01**|**\textsc{Mobile-VTON}: High-Fidelity On-Device Virtual Try-On**|Zhenchen Wan et.al.|[2603.00947v1](http://arxiv.org/abs/2603.00947v1)|
+|**2026-03-01**|**Mobile-VTON: High-Fidelity On-Device Virtual Try-On**|Zhenchen Wan et.al.|[2603.00947v2](http://arxiv.org/abs/2603.00947v2)|
 |**2026-02-28**|**Act Like a Pathologist: Tissue-Aware Whole Slide Image Reasoning**|Wentao Huang et.al.|[2603.00667v1](http://arxiv.org/abs/2603.00667v1)|
 |**2026-02-28**|**Integrated Guidance and Control for Path-Following with Bounded Inputs**|Ram Milan Kumar Verma et.al.|[2603.00513v1](http://arxiv.org/abs/2603.00513v1)|
 |**2026-02-27**|**Spatio-Temporal Garment Reconstruction Using Diffusion Mapping via Pattern Coordinates**|Yingxuan You et.al.|[2602.24043v1](http://arxiv.org/abs/2602.24043v1)|

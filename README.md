@@ -1,9 +1,11 @@
-## Updated on 2026.03.04
+## Updated on 2026.03.05
 
 ## Try-on
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2026-03-04**|**Gaussian Wardrobe: Compositional 3D Gaussian Avatars for Free-Form Virtual Try-On**|Zhiyi Chen et.al.|[2603.04290v1](http://arxiv.org/abs/2603.04290v1)|
+|**2026-03-02**|**Perimeter of an Ellipse: Understanding Ramanujan's Approximation**|Uday Shankar et.al.|[2603.03373v1](http://arxiv.org/abs/2603.03373v1)|
 |**2026-03-02**|**Conformal Policy Control**|Drew Prinster et.al.|[2603.02196v1](http://arxiv.org/abs/2603.02196v1)|
 |**2026-03-02**|**Adam Converges Without Any Modification On Update Rules**|Yushun Zhang et.al.|[2603.02092v1](http://arxiv.org/abs/2603.02092v1)|
 |**2026-03-02**|**Subcubic Coin Tossing in Asynchrony without Setup**|Mose Mizrahi et.al.|[2603.02071v1](http://arxiv.org/abs/2603.02071v1)|
@@ -12,6 +14,4 @@
 |**2026-02-28**|**Act Like a Pathologist: Tissue-Aware Whole Slide Image Reasoning**|Wentao Huang et.al.|[2603.00667v1](http://arxiv.org/abs/2603.00667v1)|
 |**2026-02-28**|**Integrated Guidance and Control for Path-Following with Bounded Inputs**|Ram Milan Kumar Verma et.al.|[2603.00513v1](http://arxiv.org/abs/2603.00513v1)|
 |**2026-02-27**|**Spatio-Temporal Garment Reconstruction Using Diffusion Mapping via Pattern Coordinates**|Yingxuan You et.al.|[2602.24043v1](http://arxiv.org/abs/2602.24043v1)|
-|**2026-02-26**|**Spin Glass Concepts in Computer Science, Statistics, and Learning**|Andrea Montanari et.al.|[2602.23326v1](http://arxiv.org/abs/2602.23326v1)|
-|**2026-02-26**|**Predicting Tennis Serve directions with Machine Learning**|Ying Zhu et.al.|[2602.22527v1](http://arxiv.org/abs/2602.22527v1)|
 

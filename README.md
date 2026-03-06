@@ -1,10 +1,10 @@
-## Updated on 2026.03.05
+## Updated on 2026.03.06
 
 ## Try-on
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
-|**2026-03-04**|**Gaussian Wardrobe: Compositional 3D Gaussian Avatars for Free-Form Virtual Try-On**|Zhiyi Chen et.al.|[2603.04290v1](http://arxiv.org/abs/2603.04290v1)|
+|**2026-03-04**|**Gaussian Wardrobe: Compositional 3D Gaussian Avatars for Free-Form Virtual Try-On**|Zhiyi Chen et.al.|[2603.04290v2](http://arxiv.org/abs/2603.04290v2)|
 |**2026-03-02**|**Perimeter of an Ellipse: Understanding Ramanujan's Approximation**|Uday Shankar et.al.|[2603.03373v1](http://arxiv.org/abs/2603.03373v1)|
 |**2026-03-02**|**Conformal Policy Control**|Drew Prinster et.al.|[2603.02196v1](http://arxiv.org/abs/2603.02196v1)|
 |**2026-03-02**|**Adam Converges Without Any Modification On Update Rules**|Yushun Zhang et.al.|[2603.02092v1](http://arxiv.org/abs/2603.02092v1)|

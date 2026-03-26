@@ -1,17 +1,17 @@
-## Updated on 2026.03.24
+## Updated on 2026.03.26
 
 ## Try-on
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2026-03-25**|**Mechanic: Sorrifier-Driven Formal Decomposition Workflow for Automated Theorem Proving**|Ruichen Qiu et.al.|[2603.24465v1](http://arxiv.org/abs/2603.24465v1)|
+|**2026-03-25**|**Effects of the initial-state geometry on D-meson production in pp and pPb collisions**|R. Terra et.al.|[2603.24344v1](http://arxiv.org/abs/2603.24344v1)|
+|**2026-03-25**|**Human, AI, and Hybrid Ensembles for Detection of Adaptive, RL-based Social Bots**|Valerio La Gatta et.al.|[2603.23796v1](http://arxiv.org/abs/2603.23796v1)|
+|**2026-03-24**|**Robust Safety Monitoring of Language Models via Activation Watermarking**|Toluwani Aremu et.al.|[2603.23171v1](http://arxiv.org/abs/2603.23171v1)|
+|**2026-03-24**|**Higher-Order Multivariate Environmental Influences in Structural Health Monitoring**|Lizzie Neumann et.al.|[2603.22950v1](http://arxiv.org/abs/2603.22950v1)|
+|**2026-03-24**|**A cohesive account on the ergodic behaviours and scaling limits of Random Walks in Cooling Random Environments**|Luca Avena et.al.|[2603.22652v1](http://arxiv.org/abs/2603.22652v1)|
+|**2026-03-23**|**Dress-ED: Instruction-Guided Editing for Virtual Try-On and Try-Off**|Fulvio Sanguigni et.al.|[2603.22607v1](http://arxiv.org/abs/2603.22607v1)|
+|**2026-03-23**|**Analyzing Fermionic Dark Matter scenarios with anomalous compact objects**|Yaiza Cano et.al.|[2603.22490v1](http://arxiv.org/abs/2603.22490v1)|
 |**2026-03-20**|**Growing Networks with Autonomous Pruning**|Charles De Lambilly et.al.|[2603.19759v1](http://arxiv.org/abs/2603.19759v1)|
-|**2026-03-20**|**OmniDiT: Extending Diffusion Transformer to Omni-VTON Framework**|Weixuan Zeng et.al.|[2603.19643v1](http://arxiv.org/abs/2603.19643v1)|
-|**2026-03-19**|**ProactiveBench: Benchmarking Proactiveness in Multimodal Large Language Models**|Thomas De Min et.al.|[2603.19466v1](http://arxiv.org/abs/2603.19466v1)|
-|**2026-03-18**|**Synthetic Data, Information, and Prior Knowledge: Why Synthetic Data Augmentation to Boost Sample Doesn't Work for Statistical Inference**|Reid Dale et.al.|[2603.18345v1](http://arxiv.org/abs/2603.18345v1)|
-|**2026-03-18**|**Counting Strict Gridlock on Graphs**|Matthew I. Jones et.al.|[2603.18289v1](http://arxiv.org/abs/2603.18289v1)|
-|**2026-03-17**|**Large Reasoning Models Struggle to Transfer Parametric Knowledge Across Scripts**|Lucas Bandarkar et.al.|[2603.17070v1](http://arxiv.org/abs/2603.17070v1)|
-|**2026-03-17**|**From Torsors to Topoi: An Introduction with a View Toward $Σ$-Protocols in Cryptography**|Takao Inoué et.al.|[2603.16274v1](http://arxiv.org/abs/2603.16274v1)|
-|**2026-03-17**|**Proactive Rejection and Grounded Execution: A Dual-Stage Intent Analysis Paradigm for Safe and Efficient AIoT Smart Homes**|Xinxin Jin et.al.|[2603.16207v1](http://arxiv.org/abs/2603.16207v1)|
-|**2026-03-16**|**The Amplitude Dynamics of Impulsive Queues**|Ruici Gao et.al.|[2603.15398v1](http://arxiv.org/abs/2603.15398v1)|
-|**2026-03-15**|**On Sizes of Hadrons**|Vladimir A. Petrov et.al.|[2603.14352v1](http://arxiv.org/abs/2603.14352v1)|
+|**2026-03-20**|**OmniDiT: Extending Diffusion Transformer to Omni-VTON Framework**|Weixuan Zeng et.al.|[2603.19643v2](http://arxiv.org/abs/2603.19643v2)|
 

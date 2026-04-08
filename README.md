@@ -1,17 +1,17 @@
-## Updated on 2026.04.07
+## Updated on 2026.04.08
 
 ## Try-on
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2026-04-06**|**Nidus: Externalized Reasoning for AI-Assisted Engineering**|Danil Gorinevski et.al.|[2604.05080v1](http://arxiv.org/abs/2604.05080v1)|
 |**2026-04-06**|**Vanast: Virtual Try-On with Human Image Animation via Synthetic Triplet Supervision**|Hyunsoo Cha et.al.|[2604.04934v1](http://arxiv.org/abs/2604.04934v1)|
 |**2026-04-06**|**Implementing surrogate goals for safer bargaining in LLM-based agents**|Caspar Oesterheld et.al.|[2604.04341v1](http://arxiv.org/abs/2604.04341v1)|
-|**2026-04-05**|**On Sharpest Tail Bounds for Functions of Tail Bounded Random Variables**|Stephen Harrison et.al.|[2604.04267v1](http://arxiv.org/abs/2604.04267v1)|
+|**2026-04-05**|**On Sharpest Tail Bounds for Functions of Tail Bounded Random Variables**|Stephen Jordan Harrison et.al.|[2604.04267v1](http://arxiv.org/abs/2604.04267v1)|
 |**2026-04-04**|**Human-Robot Copilot for Data-Efficient Imitation Learning**|Rui Yan et.al.|[2604.03613v1](http://arxiv.org/abs/2604.03613v1)|
 |**2026-04-02**|**Failing to Falsify: Evaluating and Mitigating Confirmation Bias in Language Models**|Ayush Rajesh Jhaveri et.al.|[2604.02485v1](http://arxiv.org/abs/2604.02485v1)|
 |**2026-03-31**|**Solving Problems of Unknown Difficulty**|Nicholas Wu et.al.|[2604.00156v1](http://arxiv.org/abs/2604.00156v1)|
 |**2026-03-30**|**On The Detection of Digiorno-like Objects in the Flavor Zone**|Logan A. Pearce et.al.|[2603.28977v1](http://arxiv.org/abs/2603.28977v1)|
 |**2026-03-30**|**Mitigating Backdoor Attacks in Federated Learning Using PPA and MiniMax Game Theory**|Osama Wehbi et.al.|[2603.28652v1](http://arxiv.org/abs/2603.28652v1)|
 |**2026-03-30**|**Framework for identifying the equivalence between Nature-Inspired Metaheuristics**|Iztok Fister et.al.|[2603.28255v1](http://arxiv.org/abs/2603.28255v1)|
-|**2026-03-30**|**Designing AI for Real Users -- Accessibility Gaps in Retail AI Front-End**|Neha Puri et.al.|[2603.28196v1](http://arxiv.org/abs/2603.28196v1)|
 

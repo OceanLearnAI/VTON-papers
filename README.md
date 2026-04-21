@@ -1,9 +1,12 @@
-## Updated on 2026.04.20
+## Updated on 2026.04.21
 
 ## Try-on
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2026-04-20**|**DeInfer: Efficient Parallel Inferencing for Decomposed Large Language Models**|You-Liang Huang et.al.|[2604.17709v1](http://arxiv.org/abs/2604.17709v1)|
+|**2026-04-17**|**Adversarial quantum teleportation**|Nehad AttaElmanan AbdElrahim Mabrouk et.al.|[2604.16711v1](http://arxiv.org/abs/2604.16711v1)|
+|**2026-04-17**|**A Universal Systematic Method to Generate Error Patterns on Memoryless Channels**|Marwan Jalaleddine et.al.|[2604.16709v1](http://arxiv.org/abs/2604.16709v1)|
 |**2026-04-17**|**Supporting the Comprehension of Data Analysis Scripts**|Florian Sihler et.al.|[2604.15963v1](http://arxiv.org/abs/2604.15963v1)|
 |**2026-04-17**|**The Price of Paranoia: Robust Risk-Sensitive Cooperation in Non-Stationary Multi-Agent Reinforcement Learning**|Deep Kumar Ganguly et.al.|[2604.15695v1](http://arxiv.org/abs/2604.15695v1)|
 |**2026-04-16**|**Building homology theories (ala Floer)**|John B. Etnyre et.al.|[2604.15536v1](http://arxiv.org/abs/2604.15536v1)|
@@ -11,7 +14,4 @@
 |**2026-04-14**|**Characterizing normality via automata and random matrix products**|Laurent Bienvenu et.al.|[2604.12457v1](http://arxiv.org/abs/2604.12457v1)|
 |**2026-04-13**|**bacpipe: a Python package to make bioacoustic deep learning models accessible**|Vincent S. Kather et.al.|[2604.11560v1](http://arxiv.org/abs/2604.11560v1)|
 |**2026-04-13**|**Computational Generation of Substrate-Specific Molecular Cages**|Noé Demange et.al.|[2604.11060v1](http://arxiv.org/abs/2604.11060v1)|
-|**2026-04-11**|**Optimal Null-Constrained Source-Basis Sensing in a Time-Reversed Young Interferometer**|Jianming Wen et.al.|[2604.10320v1](http://arxiv.org/abs/2604.10320v1)|
-|**2026-04-10**|**Synthesis mechanism of superheavy element 120: a dinuclear system model approach with microscopic inputs**|Wei Zhang et.al.|[2604.09287v1](http://arxiv.org/abs/2604.09287v1)|
-|**2026-04-10**|**What's in a BIP? Exploring the Lived Experiences of Breaks In Presence**|Jean-Philippe Rivière et.al.|[2604.09146v1](http://arxiv.org/abs/2604.09146v1)|
 

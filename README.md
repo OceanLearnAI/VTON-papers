@@ -1,17 +1,17 @@
-## Updated on 2026.04.27
+## Updated on 2026.04.29
 
 ## Try-on
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2026-04-28**|**Multi-Static ISAC Assisted by Double-Side Fluid Antenna System**|Qinyuan Zheng et.al.|[2604.25234v1](http://arxiv.org/abs/2604.25234v1)|
+|**2026-04-27**|**The Singular Behaviour of Ambipolar Diffusion Revealed by 1D Cartesian Solutions**|F. Moreno-Insertis et.al.|[2604.25013v1](http://arxiv.org/abs/2604.25013v1)|
+|**2026-04-27**|**"We Wanted to Do Better Than the Law": Exploring UI/UX Designers' Privacy Advocacy in Practice**|Keyu Yao et.al.|[2604.24982v1](http://arxiv.org/abs/2604.24982v1)|
+|**2026-04-26**|**From Random Fringes to Deterministic Response: Statistical Foundations of Time-Reversed Young Interferometry**|Jianming Wen et.al.|[2604.23797v1](http://arxiv.org/abs/2604.23797v1)|
+|**2026-04-26**|**Gravitational Collapse of an Inhomogeneous Fluid in Rastall Theory**|Akbar Jahan et.al.|[2604.23592v1](http://arxiv.org/abs/2604.23592v1)|
+|**2026-04-25**|**Learn&Drop: Fast Learning of CNNs based on Layer Dropping**|Giorgio Cruciata et.al.|[2604.23403v1](http://arxiv.org/abs/2604.23403v1)|
+|**2026-04-25**|**Some approximate renormalization group invariants for supersymmetric extensions of the Standard Model and the Yukawa unification**|Kirill Krylov et.al.|[2604.23329v1](http://arxiv.org/abs/2604.23329v1)|
+|**2026-04-25**|**GreenDyGNN: Runtime-Adaptive Energy-Efficient Communication for Distributed GNN Training**|Arefin Niam et.al.|[2604.23139v1](http://arxiv.org/abs/2604.23139v1)|
 |**2026-04-22**|**The combinatorial game theory of Reverse Hex**|Jeremiah Hockaday et.al.|[2604.22204v1](http://arxiv.org/abs/2604.22204v1)|
 |**2026-04-22**|**Enhancing immersion in Virtual Reality sports through Physical Interactions**|Arka Majhi et.al.|[2604.20071v1](http://arxiv.org/abs/2604.20071v1)|
-|**2026-04-21**|**Tstars-Tryon 1.0: Robust and Realistic Virtual Try-On for Diverse Fashion Items**|Mengting Chen et.al.|[2604.19748v2](http://arxiv.org/abs/2604.19748v2)|
-|**2026-04-21**|**Multi-slit time-reversed Young interference: source-space grating laws, quadratic-phase effects, and Talbot-like revivals**|Jianming Wen et.al.|[2604.19524v1](http://arxiv.org/abs/2604.19524v1)|
-|**2026-04-20**|**DeInfer: Efficient Parallel Inferencing for Decomposed Large Language Models**|You-Liang Huang et.al.|[2604.17709v1](http://arxiv.org/abs/2604.17709v1)|
-|**2026-04-17**|**Adversarial quantum teleportation**|Nehad AttaElmanan AbdElrahim Mabrouk et.al.|[2604.16711v1](http://arxiv.org/abs/2604.16711v1)|
-|**2026-04-17**|**A Universal Systematic Method to Generate Error Patterns on Memoryless Channels**|Marwan Jalaleddine et.al.|[2604.16709v1](http://arxiv.org/abs/2604.16709v1)|
-|**2026-04-17**|**Supporting the Comprehension of Data Analysis Scripts**|Florian Sihler et.al.|[2604.15963v1](http://arxiv.org/abs/2604.15963v1)|
-|**2026-04-17**|**The Price of Paranoia: Robust Risk-Sensitive Cooperation in Non-Stationary Multi-Agent Reinforcement Learning**|Deep Kumar Ganguly et.al.|[2604.15695v1](http://arxiv.org/abs/2604.15695v1)|
-|**2026-04-16**|**Building homology theories (ala Floer)**|John B. Etnyre et.al.|[2604.15536v1](http://arxiv.org/abs/2604.15536v1)|
 

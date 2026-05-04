@@ -1,9 +1,11 @@
-## Updated on 2026.05.02
+## Updated on 2026.05.04
 
 ## Try-on
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2026-05-01**|**"What Are You Really Trying to Do?": Co-Creating Life Goals from Everyday Computer Use**|Shardul Sapkota et.al.|[2605.00497v1](http://arxiv.org/abs/2605.00497v1)|
+|**2026-04-30**|**The Impact of Approximation on Algorithmic Progress**|Jeffery Li et.al.|[2605.00220v1](http://arxiv.org/abs/2605.00220v1)|
 |**2026-04-30**|**TripVVT: A Large-Scale Triplet Dataset and a Coarse-Mask Baseline for In-the-Wild Video Virtual Try-On**|Dingbao Shao et.al.|[2604.27958v1](http://arxiv.org/abs/2604.27958v1)|
 |**2026-04-30**|**Back to the Future: Rethinking Endorsement in Order-Execute Blockchains**|Rongji Huang et.al.|[2604.27659v1](http://arxiv.org/abs/2604.27659v1)|
 |**2026-04-30**|**A Systematic Review of Recent Advancements in PINN Augmented Deep Learning and Mathematical Modeling for Efficient Portfolio Management**|Bahadur Yadav et.al.|[2604.27610v1](http://arxiv.org/abs/2604.27610v1)|
@@ -12,6 +14,4 @@
 |**2026-04-27**|**"We Wanted to Do Better Than the Law": Exploring UI/UX Designers' Privacy Advocacy in Practice**|Keyu Yao et.al.|[2604.24982v1](http://arxiv.org/abs/2604.24982v1)|
 |**2026-04-26**|**From Random Fringes to Deterministic Response: Statistical Foundations of Time-Reversed Young Interferometry**|Jianming Wen et.al.|[2604.23797v1](http://arxiv.org/abs/2604.23797v1)|
 |**2026-04-26**|**Gravitational Collapse of an Inhomogeneous Fluid in Rastall Theory**|Akbar Jahan et.al.|[2604.23592v1](http://arxiv.org/abs/2604.23592v1)|
-|**2026-04-25**|**Learn&Drop: Fast Learning of CNNs based on Layer Dropping**|Giorgio Cruciata et.al.|[2604.23403v1](http://arxiv.org/abs/2604.23403v1)|
-|**2026-04-25**|**Some approximate renormalization group invariants for supersymmetric extensions of the Standard Model and the Yukawa unification**|Kirill Krylov et.al.|[2604.23329v1](http://arxiv.org/abs/2604.23329v1)|
 

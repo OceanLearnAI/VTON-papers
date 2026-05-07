@@ -1,9 +1,12 @@
-## Updated on 2026.05.05
+## Updated on 2026.05.07
 
 ## Try-on
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2026-05-06**|**Neural-powered unit disk graph embedding: qubits connectivity for some QUBO problems**|Chiara Vercellino et.al.|[2605.04736v1](http://arxiv.org/abs/2605.04736v1)|
+|**2026-05-05**|**Leveraging Pretrained Language Models as Energy Functions for Glauber Dynamics Text Diffusion**|Tarun Kathuria et.al.|[2605.04291v1](http://arxiv.org/abs/2605.04291v1)|
+|**2026-05-05**|**Optimal MILP Approach to Group Sequential Hypothesis Test**|Dae Woong Ham et.al.|[2605.03406v1](http://arxiv.org/abs/2605.03406v1)|
 |**2026-05-04**|**Fixed-detector tilt--defocus sensing by upstream source coding in a time-reversed Young interferometer**|Jianming Wen et.al.|[2605.02873v1](http://arxiv.org/abs/2605.02873v1)|
 |**2026-05-04**|**FEAT: Fashion Editing and Try-On from Any Design**|Soye Kwon et.al.|[2605.02393v1](http://arxiv.org/abs/2605.02393v1)|
 |**2026-05-04**|**How to benchmark: the Measure-Explain-Test-Improve loop**|Gabriel Scherer et.al.|[2605.02233v1](http://arxiv.org/abs/2605.02233v1)|
@@ -11,7 +14,4 @@
 |**2026-05-01**|**"What Are You Really Trying to Do?": Co-Creating Life Goals from Everyday Computer Use**|Shardul Sapkota et.al.|[2605.00497v1](http://arxiv.org/abs/2605.00497v1)|
 |**2026-04-30**|**The Impact of Approximation on Algorithmic Progress**|Jeffery Li et.al.|[2605.00220v1](http://arxiv.org/abs/2605.00220v1)|
 |**2026-04-30**|**TripVVT: A Large-Scale Triplet Dataset and a Coarse-Mask Baseline for In-the-Wild Video Virtual Try-On**|Dingbao Shao et.al.|[2604.27958v1](http://arxiv.org/abs/2604.27958v1)|
-|**2026-04-30**|**Back to the Future: Rethinking Endorsement in Order-Execute Blockchains**|Rongji Huang et.al.|[2604.27659v1](http://arxiv.org/abs/2604.27659v1)|
-|**2026-04-30**|**A Systematic Review of Recent Advancements in PINN Augmented Deep Learning and Mathematical Modeling for Efficient Portfolio Management**|Bahadur Yadav et.al.|[2604.27610v1](http://arxiv.org/abs/2604.27610v1)|
-|**2026-04-28**|**Multi-Static ISAC Assisted by Double-Side Fluid Antenna System**|Qinyuan Zheng et.al.|[2604.25234v1](http://arxiv.org/abs/2604.25234v1)|
 

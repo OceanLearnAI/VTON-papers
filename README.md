@@ -1,9 +1,10 @@
-## Updated on 2026.05.13
+## Updated on 2026.05.14
 
 ## Try-on
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2026-05-13**|**DirectTryOn: One-Step Virtual Try-On via Straightened Conditional Transport**|Xianbing Sun et.al.|[2605.12939v1](http://arxiv.org/abs/2605.12939v1)|
 |**2026-05-12**|**FAME: Feature Activation Map Explanation on Image Classification and Face Recognition**|Xinyi Zhang et.al.|[2605.12017v1](http://arxiv.org/abs/2605.12017v1)|
 |**2026-05-12**|**Advancing Dynamic Ride-Pooling Simulation -- A Highly Scalable Dispatcher**|Moritz Laupichler et.al.|[2605.11798v1](http://arxiv.org/abs/2605.11798v1)|
 |**2026-05-12**|**Condensed Mathematics and Complex Geometry**|Dustin Clausen et.al.|[2605.11731v1](http://arxiv.org/abs/2605.11731v1)|
@@ -13,5 +14,4 @@
 |**2026-05-09**|**Accelerating Zeroth-Order Spectral Optimization with Partial Orthogonalization from Power Iteration**|Jiahe Chen et.al.|[2605.09034v1](http://arxiv.org/abs/2605.09034v1)|
 |**2026-05-09**|**Learning predictive models for combinations of heterogeneous proteomic data sources**|Michal Valko et.al.|[2605.08958v1](http://arxiv.org/abs/2605.08958v1)|
 |**2026-05-09**|**On weighted extremal Kähler metrics**|Akito Futaki et.al.|[2605.08796v1](http://arxiv.org/abs/2605.08796v1)|
-|**2026-05-09**|**AI-Accelerated Brute Force Cryptanalysis**|Gideon Samid et.al.|[2605.08690v1](http://arxiv.org/abs/2605.08690v1)|
 
